@@ -2,7 +2,7 @@
     Descripción: Práctica 4 de Algoritmos y Estructuras de Datos.
                 Creación de listas enlazadas
     Autor: Atilano Fernández-Pacheco Sánchez-Migallón
-    Updated Juan C. Agui ( actualizado a Pep-8)
+    Updated Juan C. Agui ( actualizado a Pep-8, y documentación de código
     Fecha: 28/01/2022 / Feb 24
 """
 class Equipo:
