@@ -1,1 +1,3 @@
-
+De forma Opcional, fuera del curso regular, el fichero "... Advanced OO solution.py" contiene una solución más avanzada con un objeto Nodo que actua de soporte al objeto de datos que queremos almacenar. Ver la identificación del objeto via el método Key....
+Saludos
+Juan
